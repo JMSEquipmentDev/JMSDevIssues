@@ -17,7 +17,6 @@ type: Missing Material
 
 ### 📌 Project
 - [ ] CADLinkMacro  
-- [ ] SheetMetal-Check  
 - [ ] Other: ___________
 
 ---
@@ -28,8 +27,7 @@ type: Missing Material
 ---
 
 ### 🔍 Material Type
-- [ ] Plate  
-- [ ] Sheet  
+- [ ] Plate / Sheet 
 - [ ] Weldment Profile  
 - [ ] Plastic (UHMW, etc.)  
 - [ ] Rubber (Neoprene, etc.)  
